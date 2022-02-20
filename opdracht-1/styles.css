@@ -16,7 +16,7 @@ body {
 
 /* 1.2 Verander de kleur van alle list items in de unordered list naar hsl(110, 29%, 52%) */
 li {
-    color:hsl(110, 29%, 52%);
+    color: hsl(110, 29%, 52%);
 }
 
 
@@ -41,9 +41,7 @@ header a:hover {
 }
 
 
-
 /* 1.5 Maak een hover- en visited stijl voor alle links in 'main'. */
-
 
 
 main a:hover {
@@ -56,19 +54,19 @@ main a:visited {
 
 /* Verander de achtergrond van de SignUp button. Tip: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors  */
 
-input[type="submit"]{
+input[type="submit"] {
     background-color: green;
 }
 
 
 /* Geef het tekst-veld een blauwe rand wanneer hij in focus is */
 
-input[type="text"]:focus{
+input[type="text"]:focus {
     border: 1px solid blue;
 }
 
 /* Target alle heading tags op de pagina en zet hun font-family op 'Noto Sans JP', sans-serif */
 
 h1, h2 {
-    font-family: "Noto Sans JP", sans-serif ;
+    font-family: "Noto Sans JP", sans-serif;
 }

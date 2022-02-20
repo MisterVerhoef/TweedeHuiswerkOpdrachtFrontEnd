@@ -19,7 +19,6 @@
 }
 
 
-
 .three {
     display: flex;
     flex-direction: row;
@@ -37,10 +36,9 @@
     flex-basis: 200px;
 
 
-
 }
 
-form    {
+form {
     display: flex;
     flex-direction: column;
     justify-content: center;
